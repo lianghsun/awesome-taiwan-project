@@ -159,6 +159,6 @@
 
 ### 關於本清單的整理方式
 
-- 這份清單由 [Claude Code](https://claude.com/claude-code) 協助蒐集、查證與整理。每筆條目都經過連結有效性與開發者背景的查證，但仍可能有疏漏——若發現錯誤（連結失效、開發者資訊有誤、不符收錄標準），請[開 Issue](https://github.com/lianghsun/tw-brilliant-dev/issues) 告訴我們。
+- 這份清單由 [Claude Code](https://claude.com/claude-code) 協助蒐集、查證與整理。每筆條目都經過連結有效性與開發者背景的查證，但仍可能有疏漏——若發現錯誤（連結失效、開發者資訊有誤、不符收錄標準），請[開 Issue](https://github.com/lianghsun/awesome-taiwan-project/issues) 告訴我們。
 - 歡迎台灣的開發者自薦作品！發 Pull Request 或 Issue 皆可，格式請參考[投稿指南](./CONTRIBUTING.md)。
 - 清單形式受 [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 啟發，內容為獨立收錄與撰寫。
