@@ -154,6 +154,9 @@
 * :white_check_mark: [Doc Cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 桌面 App（macOS/Windows），PDF、Office、EPUB 等 16 種格式拖放即轉，表格保留、中文無損，全程本機處理
 * :white_check_mark: [Vault Curate](https://community.obsidian.md/plugins/vault-curate)：Obsidian 中文語意搜尋外掛，官方社群市場一鍵安裝，模型在本機執行、免 API key，超過 2,300 次下載
 
+#### Ryan Tsai - [GitHub](https://github.com/ryantsai)
+* :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測
+
 ---
 
 ### 關於本清單的整理方式
