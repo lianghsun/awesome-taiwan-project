@@ -6,9 +6,6 @@
 
 ### 2026 年 7 月 14 日新增
 
-#### 吳承翰 Max Wu（jackycute） - [GitHub](https://github.com/jackycute)
-* :white_check_mark: [CodiMD](https://github.com/hackmdio/codimd)：HackMD 的開源社群版，即時多人協作的 Markdown 筆記服務，可用 Docker/Node.js 自架共筆平台，10k+ 星
-
 #### Tommy Chen(tommy351) - [GitHub](https://github.com/tommy351)
 * :white_check_mark: [Hexo](https://github.com/hexojs/hexo)：Node.js 靜態部落格框架，架技術部落格的經典選擇，主題與外掛生態龐大，41k+ 星
 

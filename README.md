@@ -116,9 +116,6 @@
 #### Po-Hsun Chen(Aegis Studio)
 * :white_check_mark: [神盾測速照相](https://apps.apple.com/tw/app/id1083974444)：提供全台測速照相點與區間測速警示的免費行車助手 App
 
-#### 徐曦
-* :white_check_mark: [美玉姨](https://www.checkcheck.me/)：加入 LINE 群組即自動比對 Cofacts 資料庫、回覆假訊息查證結果的聊天機器人，好友數超過 30 萬
-
 #### Ngoo He-bi（高雄） - [GitHub](https://github.com/ngoohebi)
 * :white_check_mark: [PhahTaigi 台語輸入法](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi)：支援白話字與臺羅拼音的台語鍵盤 App，免費、無廣告、開放原始碼
 
@@ -139,9 +136,6 @@
 
 #### NCKU Hub 團隊（台南）
 * :white_check_mark: [NCKU Hub](https://nckuhub.com/)：成大學生自主打造的選課心得平台，附全台第一個課程餘額追蹤機器人
-
-#### Seekrtech 時刻科技（台中）
-* :white_check_mark: [Forest 專注森林](https://www.forestapp.cc/)：種樹番茄鐘專注 App，分心樹就會枯死，全球下載破 6000 萬並促成真實植樹超過 200 萬棵，清大學生創業、自力營運
 
 #### 翰字鑄造 JT Foundry
 * :white_check_mark: [台北黑體](https://sites.google.com/view/jtfoundry/)：以思源黑體為基底改造、更適合印刷用途的免費商用繁體黑體字型，SIL OFL 開源授權
