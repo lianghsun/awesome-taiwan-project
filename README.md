@@ -67,6 +67,88 @@
 #### 黃群捷與碎碎念團隊
 * :white_check_mark: [碎碎念記帳 NaggingMoney](https://www.naggingmoney.com/)：對話式記帳 App，像聊天一樣輸入花費，虛擬人物會碎碎念你的開銷，支援台灣電子發票掃描，上線一個月下載突破 40 萬
 
+#### Jack Cherng（新竹） - [GitHub](https://github.com/jfcherng)
+* :white_check_mark: [繁化姬](https://zhconvert.org/)：線上繁簡轉換與「台灣化」工具，能自動把中國用語轉成台灣慣用詞，並提供 API 供字幕組與開發者串接
+
+#### Chuck Yang 與 PTT 站方 - [GitHub](https://github.com/iamchucky/PttChrome)
+* :white_check_mark: [網頁版 PTT（term.ptt.cc）](https://term.ptt.cc/)：免裝軟體、直接用瀏覽器登入批踢踢 BBS 的網頁客戶端，源自開源專案 PttChrome，後由站方改作為官方網頁版
+
+#### softcup - [GitHub](https://github.com/tongwentang)
+* :white_check_mark: [新同文堂](https://chromewebstore.google.com/detail/ldmgbgaoglmaiblpnphffibpbfchjaeg)：一鍵把網頁簡體中文轉為繁體（或反向）的瀏覽器擴充功能，支援 Chrome、Firefox、Edge，約 7 萬名使用者
+
+#### Danny Lin - [GitHub](https://github.com/danny0838)
+* :white_check_mark: [終結內容農場](https://chromewebstore.google.com/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl)：自動標記並攔截內容農場連結的瀏覽器擴充功能，支援自訂黑白名單與沙盒檢視
+
+#### 王向榮 Ronny Wang（g0v 社群） - [GitHub](https://github.com/ronnywang)
+* :white_check_mark: [台灣公司資料](https://company.g0v.ronny.tw/)：整合經濟部商業司與財政部營業稅籍公開資料的公司登記查詢網站，資料持續更新
+* :x: [新聞小幫手](http://newshelper.g0v.tw/)：瀏覽新聞時提示錯誤或誤導報導的瀏覽器擴充功能，g0v 早期打假新聞專案，現已暫停服務
+
+#### iTaigi 團隊（g0v 社群） - [GitHub](https://github.com/g0v/itaigi)
+* :white_check_mark: [iTaigi 愛台語](https://itaigi.tw/)：「這個詞台語怎麼講？」群眾協作的開放台語辭典，人人可提交與投票台語講法
+
+#### Disfactory 團隊（g0v 社群） - [GitHub](https://github.com/Disfactory/Disfactory)
+* :white_check_mark: [Disfactory 農地違章工廠回報](https://disfactory.tw/)：在地圖上回報農地上疑似違章工廠、供後續檢舉追蹤的公民科技平台，與地球公民基金會協作
+
+#### 用數據看台灣（黃啟軒等志願團隊） - [官網](https://www.taiwanstat.com/)
+* :white_check_mark: [台灣水庫即時水情](https://water.taiwanstat.com/)：視覺化呈現全台水庫即時蓄水量與水情，2015 年枯水期的爆紅之作
+
+#### NTUCourse Neo 團隊（台大學生） - [GitHub](https://github.com/NTUCourse-Neo)
+* :x: [NTUCourse Neo](https://course.myntu.me/)：台大學生打造的新一代課程查詢與模擬排課網站，後與教務處合作，成果併入官方新版台大課程網
+
+#### ExpTech 探索科技（學生團隊） - [GitHub](https://github.com/ExpTechTW)
+* :white_check_mark: [TREM 臺灣即時地震監測](https://chromewebstore.google.com/detail/trem/pfdcpeipljlmlppangljdlfanbnalcei)：開源地震速報服務，自建百餘個測站，提供即時警報擴充功能與 24 小時震度直播，首個與中央氣象署簽約的學生組織
+
+#### 陳坤助
+* :white_check_mark: [KNY 台灣天氣.地震速報](https://kny.tw/)：提供地震倒數預警、天氣、颱風與停班停課資訊的老牌個人開發防災 App
+
+#### 風翔行動科技（高雄，一人公司）
+* :white_check_mark: [雙鐵時刻表](https://twrail.cc/)：整合台鐵、高鐵、捷運、公車與 YouBike 的老牌大眾運輸查詢 App，自 2000 年服務至今
+
+#### 劉冠廷
+* :white_check_mark: [台灣鐵道通](https://play.google.com/store/apps/details?id=com.waccliu.taiwanrail)：涵蓋台鐵、高鐵、捷運、輕軌、公車與單車的全台轉乘規劃 App，獲交通部 TDX 數據創新應用競賽績優獎
+
+#### abian5566
+* :white_check_mark: [Mo PTT](https://apps.apple.com/tw/app/mo-ptt/id804745434)：免 PTT 帳號也能瀏覽台灣最大 BBS 批踢踢的行動瀏覽 App
+
+#### 1SecMoney 團隊
+* :white_check_mark: [秒速記帳 1SecMoney](https://apps.apple.com/tw/app/id926076608)：主打 2 秒完成一筆記帳的極速記帳 App，曾獲 Apple 2015 台灣年度優秀 App
+
+#### Po-Hsun Chen(Aegis Studio)
+* :white_check_mark: [神盾測速照相](https://apps.apple.com/tw/app/id1083974444)：提供全台測速照相點與區間測速警示的免費行車助手 App
+
+#### 徐曦
+* :white_check_mark: [美玉姨](https://www.checkcheck.me/)：加入 LINE 群組即自動比對 Cofacts 資料庫、回覆假訊息查證結果的聊天機器人，好友數超過 30 萬
+
+#### Ngoo He-bi（高雄） - [GitHub](https://github.com/ngoohebi)
+* :white_check_mark: [PhahTaigi 台語輸入法](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi)：支援白話字與臺羅拼音的台語鍵盤 App，免費、無廣告、開放原始碼
+
+#### 鄭維超
+* :white_check_mark: [超級單字王](https://play.google.com/store/apps/details?id=com.chaos.engapp)：以遊戲化方式背英檢、多益、托福單字的學習 App，一人包辦企劃、美術與程式，雙平台下載超過 300 萬
+
+#### HandsomeBoy（鮭魚）
+* :white_check_mark: [日語50音-初心の冒險](https://apps.apple.com/tw/app/id1449548082)：以 RPG 戰鬥與手寫練習學日語五十音的遊戲化學習 App，一人開發
+
+#### 洪任諭 PCMan - [官網](https://pcman.ptt.cc/)
+* :white_check_mark: [PCMan BBS 連線軟體](https://pcman.ptt.cc/)：台灣 BBS 使用者最廣泛使用的開放原始碼桌面連線軟體，作者為醫師兼工程師、LXDE 創始人
+
+#### 理財動物園 ZOO Financial（台北）
+* :white_check_mark: [記帳雞](https://page.line.me/570aecfb)：超過 60 萬好友的 LINE 記帳機器人，對話式輸入即可完成個人與群組記帳並產生報表，北商大學生團隊開發
+
+#### Qollie 求職天眼通團隊
+* :white_check_mark: [求職天眼通](https://www.qollie.com/)：匿名分享面試經驗與公司評價的求職資訊平台，從 Chrome 外掛起家
+
+#### NCKU Hub 團隊（台南）
+* :white_check_mark: [NCKU Hub](https://nckuhub.com/)：成大學生自主打造的選課心得平台，附全台第一個課程餘額追蹤機器人
+
+#### Seekrtech 時刻科技（台中）
+* :white_check_mark: [Forest 專注森林](https://www.forestapp.cc/)：種樹番茄鐘專注 App，分心樹就會枯死，全球下載破 6000 萬並促成真實植樹超過 200 萬棵，清大學生創業、自力營運
+
+#### 翰字鑄造 JT Foundry
+* :white_check_mark: [台北黑體](https://sites.google.com/view/jtfoundry/)：以思源黑體為基底改造、更適合印刷用途的免費商用繁體黑體字型，SIL OFL 開源授權
+
+#### 劉韋辰、王立宇 - [GitHub](https://github.com/Chenyu-otf)
+* :white_check_mark: [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin)：兩位高中生利用自主學習計畫親手寫成的開源手寫字型，收錄近萬字並支援台語、客語漢字
+
 ---
 
 ### 關於本清單的整理方式

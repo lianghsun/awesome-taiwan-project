@@ -24,6 +24,8 @@
 
 #### 黃敬群 Jim Huang（jserv） - [GitHub](https://github.com/jserv)
 * :white_check_mark: [rv32emu](https://github.com/sysprog21/rv32emu)：精簡高效的 RISC-V 模擬器，適合系統軟體、嵌入式工程師與修課學生，成大「系統軟體」課程社群 sysprog21 的代表作
+* :white_check_mark: [lab0-c](https://github.com/sysprog21/lab0-c)：成大「Linux 核心設計」課程的 C 語言作業框架，想磨練 C 與資料結構的工程師的入門儀式
+* :white_check_mark: [mado](https://github.com/sysprog21/mado)：資源受限裝置用的輕量視窗系統，C 語言實作、極小記憶體佔用，給嵌入式工程師
 
 #### Tzu-ping Chung(uranusjr) - [GitHub](https://github.com/uranusjr)
 * :x: [MacDown](https://github.com/MacDownApp/macdown)：macOS 開源 Markdown 編輯器，即時預覽、程式碼區塊語法上色，9.7k+ 星；作者同時是 pip/pipenv 的維護者
@@ -46,3 +48,48 @@
 
 #### Mosky Liu(moskytw) - [GitHub](https://github.com/moskytw)
 * :x: [MoSQL](https://github.com/moskytw/mosql)：用 Python 原生資料結構（dict/list）組出 SQL 的函式庫，適合不想上重型 ORM 的後端工程師
+
+#### 洪任諭 PCMan - [GitHub](https://github.com/PCMan)
+* :white_check_mark: [PCManFM](https://github.com/lxde/pcmanfm)：LXDE 桌面環境的極輕量檔案管理員，以快速省資源著稱，作者即為 LXDE 專案創始人
+* :white_check_mark: [PIME](https://github.com/EasyIME/PIME)：Windows 輸入法框架，用 Python 或 Node.js 就能開發 Windows 輸入法，新酷音 Windows 版即以此為基礎
+* :x: [PCManX](https://github.com/pcman-bbs/pcmanx)：GTK+ 版 PCMan BBS 連線程式，台灣 BBS 世代的經典開源軟體
+
+#### 新酷音開發團隊（chewing） - [GitHub](https://github.com/chewing)
+* :white_check_mark: [libchewing](https://github.com/chewing/libchewing)：新酷音注音智慧選字輸入法引擎函式庫，給輸入法與應用程式開發者，近年以 Rust 重寫、至今活躍
+
+#### 楊維中 zonble 與 OpenVanilla 社群 - [GitHub](https://github.com/openvanilla)
+* :white_check_mark: [OpenVanilla](https://github.com/openvanilla/openvanilla)：macOS 開源輸入法框架，想在 Mac 上使用或開發中文輸入法的起點，台灣輸入法開源運動的代表專案
+
+#### Wu Yu-Wei(wusyong) - [GitHub](https://github.com/wusyong)
+* :white_check_mark: [wry](https://github.com/tauri-apps/wry)：Tauri 底層的跨平台 WebView 函式庫（Rust），是 Tauri 能做出小體積桌面 App 的核心，4.8k+ 星
+
+#### Evan Lin(kkdai) - [GitHub](https://github.com/kkdai)
+* :white_check_mark: [youtube](https://github.com/kkdai/youtube)：Go 語言的 YouTube 影片下載函式庫與 CLI，眾多個人 side projects 中最廣為使用的一個，3.9k+ 星
+
+#### Sam Lin(linsamtw) - [GitHub](https://github.com/linsamtw)
+* :white_check_mark: [FinMind](https://github.com/FinMind/FinMind)：開源金融資料函式庫，提供超過 50 種以台股為主、每日更新的資料集，給量化與資料工程師，2.7k+ 星
+
+#### Louie Lu(mlouielu) - [GitHub](https://github.com/mlouielu)
+* :white_check_mark: [twstock](https://github.com/mlouielu/twstock)：台灣股市股票價格擷取套件，支援即時股價，用 Python 分析台股的第一站，1.4k+ 星
+
+#### Vinta Chen(vinta) - [GitHub](https://github.com/vinta)
+* :white_check_mark: [awesome-python](https://github.com/vinta/awesome-python)：Python 框架、函式庫與工具的精選清單，30 萬星，GitHub 全站最多星的專案之一
+
+#### C. T. Lin(chentsulin) - [GitHub](https://github.com/chentsulin)
+* :white_check_mark: [awesome-graphql](https://github.com/chentsulin/awesome-graphql)：GraphQL 生態系資源精選清單，長期由本人維護更新，15k+ 星
+
+#### ExpTech 探索科技 - [GitHub](https://github.com/ExpTechTW)
+* :white_check_mark: [TREM-Lite](https://github.com/ExpTechTW/TREM-Lite)：臺灣即時地震監測的開源桌面用戶端，提供地震速報與測站波形，民間防災社群持續活躍開發
+
+#### CodingMan(PttCodingMan) - [GitHub](https://github.com/PttCodingMan)
+* :white_check_mark: [PyPtt](https://github.com/PyPtt/PyPtt)：支援 PTT 與 PTT2 的 Python 函式庫，自動化操作批踢踢（發文、推文、爬文）的首選，文件全繁體中文
+
+#### Peter Dave Hello - [GitHub](https://github.com/PeterDaveHello)
+* :white_check_mark: [tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy)：僅 10MB 的 Tor SOCKS5 proxy Docker 映像檔，給需要匿名網路測試環境的工程師
+* :white_check_mark: [ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw)：可自架、無追蹤無廣告的 IP 資訊查詢服務，作者是 cdnjs 維護者、長期台灣開源志工
+
+#### Dino Lai(dinos80152) - [GitHub](https://github.com/dinos80152)
+* :white_check_mark: [Ptt Alertor](https://github.com/Ptt-Alertor/ptt-alertor)：以 Go 打造的 PTT 文章即時通知機器人，可透過 LINE、Telegram、Messenger 訂閱看板、關鍵字、作者與推文數
+
+#### 柯志杰 But Ko（ButTaiwan） - [GitHub](https://github.com/ButTaiwan)
+* :white_check_mark: [芫荽 Iansui](https://github.com/ButTaiwan/iansui)：基於 Klee One 改造、符合教育部標準字形的開源學習用楷體字型，作者為《字型散步》作者、另維護源樣明體等系列改作
