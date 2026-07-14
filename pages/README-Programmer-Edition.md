@@ -105,3 +105,8 @@
 * :white_check_mark: [better-rm](https://github.com/doggy8088/better-rm)：更安全的 rm 命令替代品，防止誤刪重要檔案
 * :white_check_mark: [ChatGPT Toolkit](https://github.com/doggy8088/ChatGPTToolkitExtension)：提升 ChatGPT、Gemini、Claude 等 AI 網站使用體驗的瀏覽器外掛，支援網址帶入提示詞與自動提示按鈕
 * :white_check_mark: [git-setup](https://github.com/doggy8088/git-setup)：一行 npx 指令完成 Git 環境初始化設定的小工具
+
+#### 徐灝（h30190）（新北） - [GitHub](https://github.com/h30190)
+* :white_check_mark: [台灣 AEC 產業開源知識庫](https://github.com/h30190/HJPLUS_Taiwan_Architect_KB)：給建築、工程、營造從業者的協作知識庫，收錄法規檢討、施工指引等 AI 技能模組，社群持續以 PR 擴充
+* :white_check_mark: [Taiwan Tender MCP](https://github.com/h30190/SearchProcurementTenders-crawler.Ver)：查詢政府電子採購網標案的 MCP 工具，讓 AI 助理直接檢索與分析台灣標案情報
+* :white_check_mark: [台灣建築法規查詢 MCP](https://github.com/h30190/HJPLUS_Taiwan_building_code_tracker_MCP)：整合全國法規資料庫條文與內政部解釋函令的建築法規查詢工具，附本地快取
