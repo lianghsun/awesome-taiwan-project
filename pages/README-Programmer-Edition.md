@@ -101,3 +101,10 @@
 * :white_check_mark: [Ultra-Scale Playbook 繁中版](https://github.com/ai-twinkle/ultrascale-playbook-zh-tw)：超大規模訓練實戰手冊的繁體中文全譯本，附每章互動實驗
 * :white_check_mark: [LLM-Book-Club](https://github.com/ai-twinkle/LLM-Book-Club)：深夜讀書會的實作教材，收錄《Hands-On Large Language Models》各章 notebooks 與投影片
 * :white_check_mark: [AiyoDesk](https://github.com/ai-twinkle/AiyoDesk)：以最低硬體成本打造家用 AI 伺服器的開源整合軟體，整合 llama.cpp、Open-WebUI 與 ComfyUI，可在內網共享 AI 功能
+
+#### Will 保哥（doggy8088）（台北） - [GitHub](https://github.com/doggy8088), [部落格](https://blog.miniasp.com/)
+* :white_check_mark: [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)：iT 邦幫忙鐵人賽年度大獎著作，台灣工程師的 Git 入門經典教材，4.4k+ 星
+* :white_check_mark: [github-copilot-configs](https://github.com/doggy8088/github-copilot-configs)：長期整理的 GitHub Copilot 最佳設定與客製化指令，1.2k+ 星
+* :white_check_mark: [better-rm](https://github.com/doggy8088/better-rm)：更安全的 rm 命令替代品，防止誤刪重要檔案
+* :white_check_mark: [ChatGPT Toolkit](https://github.com/doggy8088/ChatGPTToolkitExtension)：提升 ChatGPT、Gemini、Claude 等 AI 網站使用體驗的瀏覽器外掛，支援網址帶入提示詞與自動提示按鈕
+* :white_check_mark: [git-setup](https://github.com/doggy8088/git-setup)：一行 npx 指令完成 Git 環境初始化設定的小工具
