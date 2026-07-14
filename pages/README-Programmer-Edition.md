@@ -93,3 +93,11 @@
 
 #### 柯志杰 But Ko（ButTaiwan） - [GitHub](https://github.com/ButTaiwan)
 * :white_check_mark: [芫荽 Iansui](https://github.com/ButTaiwan/iansui)：基於 Klee One 改造、符合教育部標準字形的開源學習用楷體字型，作者為《字型散步》作者、另維護源樣明體等系列改作
+
+#### Twinkle AI 社群 - [GitHub](https://github.com/ai-twinkle), [官網](https://www.twinkleai.tw/)
+* :white_check_mark: [Twinkle Eval](https://github.com/ai-twinkle/Eval)：高效能 LLM 評測框架，平行 API 呼叫比逐題評測快達 17 倍，支援 box、math 與 logit 三種評測模式
+* :white_check_mark: [Twinkle Hub](https://hub.twinkleai.tw/)：把政府開放資料等台灣資料來源聚合成單一 MCP 端點的服務，首發即納入 data.gov.tw 全數五萬多個資料集
+* :white_check_mark: [RLHF Book 繁中版](https://github.com/ai-twinkle/rlhf-book-zh-tw)：《Reinforcement Learning from Human Feedback》的社群繁體中文全譯本，附每章互動實驗
+* :white_check_mark: [Ultra-Scale Playbook 繁中版](https://github.com/ai-twinkle/ultrascale-playbook-zh-tw)：超大規模訓練實戰手冊的繁體中文全譯本，附每章互動實驗
+* :white_check_mark: [LLM-Book-Club](https://github.com/ai-twinkle/LLM-Book-Club)：深夜讀書會的實作教材，收錄《Hands-On Large Language Models》各章 notebooks 與投影片
+* :white_check_mark: [AiyoDesk](https://github.com/ai-twinkle/AiyoDesk)：以最低硬體成本打造家用 AI 伺服器的開源整合軟體，整合 llama.cpp、Open-WebUI 與 ComfyUI，可在內網共享 AI 功能
