@@ -149,6 +149,12 @@
 #### 劉韋辰、王立宇 - [GitHub](https://github.com/Chenyu-otf)
 * :white_check_mark: [辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin)：兩位高中生利用自主學習計畫親手寫成的開源手寫字型，收錄近萬字並支援台語、客語漢字
 
+#### Twinkle AI 社群 - [GitHub](https://github.com/ai-twinkle), [官網](https://www.twinkleai.tw/)
+* :white_check_mark: [Twinkle Hub](https://hub.twinkleai.tw/)：聚合政府開放資料等台灣資料來源的服務，一把金鑰即可透過 MCP 讓 AI 助理查詢五萬多個資料集
+* :white_check_mark: [RLHF Book 繁中版](https://ai-twinkle.github.io/rlhf-book-zh-tw/)：《Reinforcement Learning from Human Feedback》繁體中文全譯本，線上免費閱讀，附每章互動實驗
+* :white_check_mark: [Ultra-Scale Playbook 繁中版](https://ai-twinkle.github.io/ultrascale-playbook-zh-tw/)：超大規模訓練實戰手冊的繁體中文全譯本，線上免費閱讀，附每章互動實驗
+* :white_check_mark: [從零打造 LLM 互動教材](https://ai-twinkle.github.io/llm-from-scratch-course/)：對應《Build a Large Language Model （From Scratch）》各章的原創互動講義，打開網頁即可學
+
 ---
 
 ### 關於本清單的整理方式
