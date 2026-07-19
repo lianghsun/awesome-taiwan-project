@@ -4,6 +4,11 @@
 
 這裡收錄的是給工程師用的作品——開源函式庫、命令列工具、編輯器外掛與可自架的服務，使用上通常需要寫程式或下指令。給一般人打開即用的網站與 App，請看主版面。
 
+### 2026 年 7 月 18 日新增
+
+#### AndyAWD 與 GDG Kaohsiung 社群團隊（高雄） - [GitHub](https://github.com/gdg-kh)
+* :white_check_mark: [CommunityCardOrg](https://github.com/gdg-kh/CommunityCardOrg)：提供 OpenAPI 規格與 MCP 伺服器的社群名牌卡開源專案，讓 AI 助理可直接查詢高雄在地社群與活動資料
+
 ### 2026 年 7 月 14 日新增
 
 #### Tommy Chen(tommy351) - [GitHub](https://github.com/tommy351)
