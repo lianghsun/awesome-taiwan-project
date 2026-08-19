@@ -150,9 +150,10 @@
 * :white_check_mark: [從零打造 LLM 互動教材](https://ai-twinkle.github.io/llm-from-scratch-course/)：對應《Build a Large Language Model （From Scratch）》各章的原創互動講義，打開網頁即可學
 
 #### Jacob Mei（notoriouslab）（台北） - [GitHub](https://github.com/notoriouslab), [部落格](https://jacobmei.com)
-* :white_check_mark: [TrailPaint 路小繪](https://trailpaint.org/app/)：手繪風路線地圖工具，匯入照片或 GPX/KML 路線就能輸出插畫風地圖與故事地圖，零後端、免註冊，支援中英日三語
-* :white_check_mark: [Doc Cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 桌面 App（macOS/Windows），PDF、Office、EPUB 等 16 種格式拖放即轉，表格保留、中文無損，全程本機處理
-* :white_check_mark: [Vault Curate](https://community.obsidian.md/plugins/vault-curate)：Obsidian 中文語意搜尋外掛，官方社群市場一鍵安裝，模型在本機執行、免 API key，超過 2,300 次下載
+* :white_check_mark: [TrailPaint 路小繪](https://trailpaint.org/app/)：手繪風路線地圖工具，匯入照片或 GPX/KML 路線就能輸出插畫風地圖與故事地圖，手機點地圖即可編輯，零後端、免註冊，支援中英日三語
+* :white_check_mark: [Doc Cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 桌面 App（macOS/Windows），PDF、Office、EPUB 等 16 種格式拖放即轉，表格保留、中文無損，全程本機處理，macOS 版已通過 Apple 公證、下載後雙擊即開，300+ 星
+* :white_check_mark: [Vault Curate](https://community.obsidian.md/plugins/vault-curate)：Obsidian 中文語意搜尋外掛，官方社群市場一鍵安裝，模型在本機執行、免 API key，桌機建索引、手機與平板讀同一份索引，超過 3,600 次下載
+* :white_check_mark: [HealthWorkbench](https://github.com/notoriouslab/health-workbench)：健康紀錄整理桌面 App（macOS/Windows），把健保健康存摺、Apple 健康與 CPAP 呼吸器的下載檔匯進本機資料庫，突破健康存摺只存三年的限制，可匯出單檔 HTML 或 EPUB 帶去回診，不需帳號、不上雲
 
 #### Ryan Tsai - [GitHub](https://github.com/ryantsai)
 * :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測

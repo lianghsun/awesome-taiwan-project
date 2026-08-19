@@ -121,8 +121,8 @@
 * :white_check_mark: [BilingualSub](https://github.com/Mapleeeeeeeeeee/bilingualsub)：YouTube 雙語字幕產生器，自動語音辨識、LLM 翻譯並輸出 SRT/ASS 雙語字幕，支援硬體加速字幕燒錄
 
 #### Jacob Mei（notoriouslab）（台北） - [GitHub](https://github.com/notoriouslab), [部落格](https://jacobmei.com)
-* :white_check_mark: [doc-cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 的命令列工具，一個指令涵蓋 16 種格式，表格保留、中文友好、全程本機，適合建自己的 AI 知識庫，290+ 星
-* :white_check_mark: [vault-curate](https://github.com/notoriouslab/vault-curate)：Obsidian 語意搜尋外掛，BM25、本機 WebGPU 中文 embedding 與模糊標題三路混合檢索，中文搜尋品質佳、免 API key
+* :white_check_mark: [doc-cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 的命令列工具，一個指令涵蓋 16 種格式，表格保留、中文友好、全程本機，適合建自己的 AI 知識庫，300+ 星
+* :white_check_mark: [vault-curate](https://github.com/notoriouslab/vault-curate)：Obsidian 語意搜尋外掛，BM25、本機 WebGPU 中文 embedding 與模糊標題三路混合檢索，中文搜尋品質佳、免 API key，桌機建索引、手機與平板以唯讀方式讀同一份索引，不會有同步衝突
 * :white_check_mark: [bu-ketao 不客套](https://github.com/notoriouslab/bu-ketao)：專為中文設計的 LLM 輸出壓縮規則集，歸納 14 類中文特有冗餘，支援 Claude Code、ChatGPT 等，實測約 72% token 壓縮
 * :white_check_mark: [browser-mcp-lite](https://github.com/notoriouslab/browser-mcp-lite)：讓 AI 助理操作已登入 Chrome 的極簡 MCP server，讀網頁、截圖、跑腳本，全部程式碼約 500 行、可自行審計
 * :white_check_mark: [trad-zh-search](https://github.com/notoriouslab/trad-zh-search)：繁體中文全文檢索前處理工具，以中研院 CKIP 分詞加 bigram 索引改善繁中分詞品質，可搭配 Meilisearch、Elasticsearch
