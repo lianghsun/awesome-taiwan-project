@@ -158,6 +158,12 @@
 #### Ryan Tsai - [GitHub](https://github.com/ryantsai)
 * :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測
 
+#### Lumi Studio（alice51849） - [GitHub](https://github.com/alice51849), [App Store 開發者頁](https://apps.apple.com/tw/developer/id1136144960)
+* :white_check_mark: [Lumi 注音星球 Pro](https://apps.apple.com/tw/app/id6775773117)：注音符號學習遊戲，把 37 個注音變成可收集的小夥伴，用配對餵食、筆順描寫、聲調雲霄飛車等五種玩法練發音與拼讀；無廣告、無外部連結、不蒐集個人資料，一次買斷（美術為 AI 生成，發音使用系統語音）
+* :white_check_mark: [ScanTo Pro](https://apps.apple.com/tw/app/id6779977651)：離線 PDF 掃描器，裝置端 OCR 讓你搜尋文件「裡面的字」而不只是檔名，開飛航模式功能完全一樣；免費下載、一次解鎖，無訂閱、無雲端、無帳號
+* :white_check_mark: [HoursTag](https://apps.apple.com/tw/app/id6754218117)：把價格換算成工時的記帳 App，設定一次收入後，每筆花費都會顯示等於幾小時工作，並可標記必要／想要／衝動，資料只留在裝置上
+* :white_check_mark: [CalDaily](https://apps.apple.com/tw/app/id6794178671)：會記得每筆結果的計算機，可為計算命名、分類、搜尋與匯出 CSV，內含分帳、折扣稅金、單位換算、貸款月付等八種工具與 100 款主題，完整支援 50 種語言
+
 ---
 
 ### 關於本清單的整理方式
