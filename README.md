@@ -158,6 +158,9 @@
 #### Ryan Tsai - [GitHub](https://github.com/ryantsai)
 * :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測
 
+#### 林佐翰 Zohan Lin（高雄）
+* :white_check_mark: [StarKids 集星星](https://starkidsfamily.com)：給 3–12 歲孩子的集點獎勵 iOS App，完成家事、練琴、看書就得星星換獎勵，無廣告、免註冊、家長雙機同步
+
 ---
 
 ### 關於本清單的整理方式
