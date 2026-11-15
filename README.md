@@ -158,6 +158,10 @@
 #### Ryan Tsai - [GitHub](https://github.com/ryantsai)
 * :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測
 
+#### 好日子工具箱 - [官網](https://thegoodday.tw)
+* :white_check_mark: [好日子工具箱](https://thegoodday.tw)：免費的台灣生活工具站，130 多個工具涵蓋漲停價、勞退與所得稅試算、農民曆、八字與 HEIC 轉檔，免註冊、打開即用
+
+
 ---
 
 ### 關於本清單的整理方式
