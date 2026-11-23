@@ -158,6 +158,13 @@
 #### Ryan Tsai - [GitHub](https://github.com/ryantsai)
 * :white_check_mark: [KKTerm](https://github.com/ryantsai/KKTerm/releases/latest)：跨平台本機優先的遠端管理桌面 App，把終端機、SSH/SFTP、RDP/VNC、檔案與儀表板整合在單一視窗，免費開源且無遙測
 
+#### AY Skill Lab（一人公司） - [官網](https://ayskilllab.com/)
+* :white_check_mark: [補助雷達](https://twgrants.ayskilllab.com/)：台灣政府補助查詢網站，把受理中的補助依公司、個人、團體、學校分開，金額、截止日與官方公告連結列在同一行，免費查詢，會員 US$9／月
+* :white_check_mark: [實價區報](https://twhomes.ayskilllab.com/)：實價登錄成交價統計網站，21 縣市與 359 個行政區的每坪中位數、四分位和年增，排名免費看，單一縣市報告 US$5
+* :white_check_mark: [公司紀錄卡](https://company.ayskilllab.com/)：用統編查台灣公司公開紀錄的網站，把勞動部違法名單、環保裁處、拒絕往來、登記與工廠資料集中成一張卡並標出處，免費查統編，完整卡片 US$5
+* :white_check_mark: [定薪參考](https://pay.ayskilllab.com/)：台灣職類薪資區間網站，用勞動部調查與政府就業通刊登整理 129 個職類的月薪中位數與四分位，免費查職類，完整報告 US$9
+* :white_check_mark: [營運健檢](https://tools.ayskilllab.com/)：小店與一人公司的營運分析 Skill，輸入營收、成本和漏斗，在自己電腦上用 AI 工具或 Python 算出 KPI 與最大瓶頸，排出 30 天行動計畫，資料不上傳；損益兩平、毛利率等計算機免費用，Skill US$4.99 一次付清
+
 ---
 
 ### 關於本清單的整理方式
